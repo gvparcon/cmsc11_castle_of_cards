@@ -11,3 +11,7 @@ Developers:
 Dependencies:
 1. tkinter
 3. Python Imaging Library (PIL)
+
+How to run:
+1. Set screen display to 100%
+2. Run gui.py
